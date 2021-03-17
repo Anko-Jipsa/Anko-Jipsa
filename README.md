@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/16848261?s=280&v=4" alt="scikit_learn" width="40" height="40"/> </a>  
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  
 </p>
 
 ----
