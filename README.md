@@ -4,7 +4,7 @@
   
 </p>
 
-# Good day! My name is Joon.
+# 안녕! My name is Joon.
 
 
 
